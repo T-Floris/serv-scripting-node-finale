@@ -1,0 +1,25 @@
+{
+  "name": "serv-scripting-node-finale",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Floris/serv-scripting-node-finale.git"
+  },
+  "author": "tino floris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-Floris/serv-scripting-node-finale/issues"
+  },
+  "homepage": "https://github.com/T-Floris/serv-scripting-node-finale#readme",
+  "dependencies": {
+    "mariadb": "^2.5.4",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
