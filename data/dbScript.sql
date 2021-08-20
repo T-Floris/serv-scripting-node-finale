@@ -1,4 +1,4 @@
-create database if not exists personale;
+create database personale;
 
 use personale;
 
@@ -10,4 +10,4 @@ CREATE TABLE `persons` (
   `lname` varchar(48) NOT NULL,
   `email` varchar(48) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) 
